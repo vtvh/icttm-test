@@ -6,7 +6,7 @@
 
 3/ Code should be written in the two pre-configured files: download.ipynb, transform.ipynb.
 
-4/ Use Selenium to download the file from the following link (the code should be written in the download.ipynb file): https://drive.google.com/file/d/1mZPzvTfaLGjm_RcegobT50K5igZJSvfd/view?usp=sharing
+4/ Use Selenium to download the file from the following link (the code should be written in the download.ipynb file): https://drive.google.com/drive/folders/1EImvKyUQ_iJCfd2h-Dxjn_sqPyDV5tFC?usp=sharing
 
 Note: We prefer not to download and store chromedriver within our source code. Therefore, please find a suitable library to achieve this.
 
